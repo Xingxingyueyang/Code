@@ -22,4 +22,3 @@ net<-function(comun){
 
 
 
-The frequency of 10 potential functional genes in high and low resource environment of each site
